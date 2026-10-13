@@ -5,5 +5,6 @@
   </Configurations>
   <Folder Name="/LinearList/">
     <Project Path="LinearList/SqList/SqList.vcxproj" Id="60600661-5d9d-42a7-bf04-3a1a7a4b5a0b" />
+    <Project Path="LinearList/SqList_2/SqList_2.vcxproj" Id="150b03f6-da04-4ada-ae93-08990990432e" />
   </Folder>
 </Solution>
