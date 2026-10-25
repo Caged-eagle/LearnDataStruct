@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/LinearList/">
+    <Project Path="LinearList/SqList/SqList.vcxproj" Id="a6c3b3d3-7a86-4d26-a720-8b9797698241" />
+  </Folder>
+</Solution>
